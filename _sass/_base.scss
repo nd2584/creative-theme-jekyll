@@ -70,7 +70,7 @@ aside {
 // Navigation
 
 .navbar-default {
-    background-color: white;
+    background-color: rgb(0, 0, 0);
     border-color: rgba($theme-dark, .5);
     @include sans-serif-font;
     @include transition-all;
@@ -157,7 +157,7 @@ header {
     background-position: center;
     background-image: url('../img/header.jpg');
     text-align: center;
-    color: white;
+    color: black;
     .header-content {
         position: relative;
         text-align: center;
